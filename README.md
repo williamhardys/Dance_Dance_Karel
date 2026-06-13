@@ -1,8 +1,8 @@
 # Dance_Dance_Karel
-Retro game Dance Dance Revolution for Stanford CIP final project
+Retro game Dance Dance Karel for Stanford CIP final project
 🚀 Project Overview
 
-Dance Dance Revolution is an exciting rhythm game built entirely with Python, bringing the classic Dance Dance Revolution experience to your desktop. Test your reflexes and rhythm as arrows scroll up the screen, challenging you to hit the corresponding keys in time with the music. Perfect for Python enthusiasts and rhythm game lovers alike!
+Dance Dance Karel is an exciting rhythm game built entirely with Python, bringing the classic Dance Dance Revolution(DDR) experience to your desktop. Test your reflexes and rhythm as arrows scroll up the screen, challenging you to hit the corresponding keys in time with the music. Perfect for Python enthusiasts and rhythm game lovers alike!
 
 ✨ Features
 
