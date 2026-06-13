@@ -46,8 +46,8 @@ Clone the repository:
 Bash
 
 
-git clone https://github.com/your_username/python-ddr.git
-cd python-ddr
+git clone https://github.com/williamhardys/Dance_Dance_Karel.git
+cd Dance_Dance_Karel
 
 
 
