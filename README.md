@@ -7,21 +7,17 @@ Dance Dance Revolution is an exciting rhythm game built entirely with Python, br
 ✨ Features
 
 
-•
-Score Tracking: Keep track of your high scores and challenge yourself to improve.
+•Score Tracking: Keep track of your high scores and challenge yourself to improve.
 
 
 
 🛠️ Technologies Used
 
-•
-Python 3.x
+•Python 3.x
 
-•
-Pygame (for graphics and audio)
+•Pygame (for graphics and audio)
 
-•
-(Add any other libraries here, e.g., asyncio, random)
+•(Add any other libraries here, e.g., asyncio, random)
 
 ⬇️ Installation
 
@@ -40,39 +36,34 @@ python3 --version
 
 Setup
 
-1.
-Clone the repository:
+1.Clone the repository:
 
-Bash
-
-
-git clone https://github.com/williamhardys/Dance_Dance_Karel.git
-cd Dance_Dance_Karel
+ Bash
+ git clone https://github.com/williamhardys/Dance_Dance_Karel.git
+ cd Dance_Dance_Karel
 
 
 
 
 
-2.
-Create a virtual environment (recommended ):
+2.Create a virtual environment (recommended ):
 
-Bash
+ Bash
 
 
-python3 -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
+ python3 -m venv venv
+ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 
 
 
-3.
-Install dependencies:
 
-Bash
+3.Install dependencies:
+
+ Bash
 
 
-pip install -r requirements.txt
+ pip install -r requirements.txt
 
 
 
@@ -82,21 +73,18 @@ pip install -r requirements.txt
 
 ▶️ How to Play
 
-1.
-Run the game:
+1.Run the game:
 
-Bash
+ Bash
 
 
-python3 main.py  # Or whatever your main game file is called
-
+ python3 main.py  # Or whatever your main game file is called
 
 
 
 
-2.
-Select a song: Navigate through the in-game menu to choose your track.
 
-3.
-Hit the arrows: Press the corresponding keyboard keys (typically Left, Down, Up, Right arrow keys, or A, S, W, D) as the arrows reach the target zone.
+2.Select a song: Navigate through the in-game menu to choose your track.
+
+3.Hit the arrows: Press the corresponding keyboard keys (typically Left, Down, Up, Right arrow keys) as the arrows reach the target zone.
 
